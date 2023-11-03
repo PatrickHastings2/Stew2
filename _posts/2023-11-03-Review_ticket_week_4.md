@@ -2,9 +2,9 @@
 toc: true
 comments: false
 layout: post
-title: Week 6 Plan
+title: Week 4 Plan
 description: 
-courses: { compsci: {week: 6} }
+courses: { compsci: {week: 4} }
 type: tangibles
 ---
 ## Review Ticket
