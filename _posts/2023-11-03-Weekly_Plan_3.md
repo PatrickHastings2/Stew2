@@ -10,8 +10,5 @@ type: plan
 
 ## Week 6
 
-Sep 28, 2023
+- Finish web programing basics
 
-- Prepare and complete hacks for JS basics test  
-- Complete hacks with team
-- practice agile methodology poster
