@@ -5,8 +5,9 @@ layout: post
 title: Week 5 Plan
 description: 
 courses: { compsci: {week: 5} }
-type: tangibles
+type: plans
 ---
+## List
 
 - Completed JS iTunes and the API hack
 - Made Python hacks for team test and commited changes

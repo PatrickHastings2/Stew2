@@ -5,7 +5,7 @@ layout: post
 title: Week 4 Plan
 description: 
 courses: { compsci: {week: 4} }
-type: plan
+type: plans
 ---
 ## Weekly plan
 

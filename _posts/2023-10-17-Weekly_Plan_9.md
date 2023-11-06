@@ -5,7 +5,7 @@ layout: post
 title: Week 9 Plan
 description: 
 courses: { compsci: {week: 9} }
-type: plan
+type: plans
 ---
 
 - Live reveiw
