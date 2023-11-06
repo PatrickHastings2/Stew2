@@ -11,4 +11,8 @@ type: plan
 ## Week 6
 
 - Finish web programing basics
+- Passion project Requirements
+- Deploy Aws
+- Make Grading spreadsheet for Team Teach
+
 
